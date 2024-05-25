@@ -15,4 +15,8 @@ Actually, bots can use this method
 Flag format: `FUSec{...}`
 
 ## Files : 
- - [filemissing](./filemissing)
+ - [fusec_ransomware](./fusec_ransomware.zip)
+ - [fusec_ransomware.z01](./fusec_ransomware.z01)
+ - [fusec_ransomware.z02](./fusec_ransomware.z02)
+
+> File split into 3 parts, you need to join them to get the original file.
